@@ -1,8 +1,8 @@
 import React from "react";
-import { Navbar } from "./Navbar.jsx"
-import { CardMenu } from "./CardMenu.jsx"
-import { Card } from "./Card.jsx"
-import { Footer } from "./Footer.jsx"
+import Navbar from "./Navbar.jsx";
+import CardMenu from "./CardMenu.jsx";
+import Card from "./Card.jsx";
+import Footer from "./Footer.jsx";
 
 const cards = [
 	{

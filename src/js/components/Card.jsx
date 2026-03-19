@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Card = (props) => {
+const Card = (props) => {
     const { image, title, description } = props.cards;
     return (                
             <div className="card text-center h-100" >
@@ -14,7 +14,7 @@ export const Card = (props) => {
     )
 }
 
-
+export default Card;
 
 
       
